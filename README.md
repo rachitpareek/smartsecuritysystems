@@ -15,6 +15,7 @@
 <strong>2. Setting Up the PostgreSQL Server</strong>
 <p>a. Install the necessary packages</p>
 <i>Download and install PostgreSQL at <code>https://www.enterprisedb.com/downloads/postgres-postgresql-downloads</code></i>
+<i>Then install the command line utilities for PostgreSQL</i>
 <pre>brew install postgresql</pre>
 <p>b. Create the database</p>
 <pre>sudo su - postgres</pre>
