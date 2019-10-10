@@ -1,5 +1,4 @@
 # Smart Security Systems
-<p>By Ganesh Sankaran</p>
 <p>Tested on macOS Mojave and Ubuntu 18.04 LTS</p>
 <hr />
 <h3>Deploying the Django Web Application (macOS)</h3>
@@ -71,4 +70,6 @@
 <pre>sudo python3 ~/smart-security-systems/SmartSecuritySystems/manage.py migrate</pre>
 <p>b. Start the server</p>
 <pre>sudo python3 ~/smart-security-systems/SmartSecuritySystems/manage.py runserver</pre>
+
+<p>Credits to Ganesh Sankaran</P>
 
